@@ -1,5 +1,5 @@
 {
-  "name": "taking-a-mary-break",
+  "name": "outta-city-limits",
   "version": "1.0.0",
   "type": "module",
   "license": "MIT",
@@ -101,6 +101,5 @@
     "vite": "^7.1.7",
     "vitest": "^2.1.4"
   },
-  "packageManager": "pnpm@10.4.1",
-  "description": "Production-ready website for Taking a Mary Break podcast, socials, blog, and live events."
+  "description": "Outta City Limits storefront and OCL Resale Vault companion experience."
 }
